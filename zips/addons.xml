@@ -116,7 +116,7 @@
     </extension>
 </addon>
 
-<addon id="repository.fuckmeharderblamo" name="[COLORdeepviolet]Fuck Me Harder Blamo[/COLOR]" version="1.0.0" provider-name="BlamoATrain">
+<addon id="repository.fuckmeharderblamo" name="[COLORdarkviolet]Fuck Me Harder Blamo[/COLOR]" version="1.0.0" provider-name="BlamoATrain">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
