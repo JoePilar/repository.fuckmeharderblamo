@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fuckmeharderblamo" name="[COLORdeepmagenta]Fuck Me Harder Blamo[/COLOR]" version="0.0.1" provider-name="BlamoATrain">
+<addon id="repository.fuckmeharderblamo" name="[COLORdeepviolet]Fuck Me Harder Blamo[/COLOR]" version="1.0.0" provider-name="BlamoATrain">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
