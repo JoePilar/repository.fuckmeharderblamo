@@ -1,0 +1,40 @@
+Tempus Reborn
+V. 1.2
+bug fixes for tmbd
+
+V. 1.3
+speed improvments for trakt
+
+V. 1.4
+added color customization
+
+V. 1.5
+added trakt
+
+V. 1.6
+credit update
+
+V. 1.7
+its a rainbow
+
+V. 1.8
+removed plugin
+
+V. 1.9
+updated plugins
+
+V. 2.0
+addition of cache clear for users
+enabled RD
+
+V. 2.1
+changed cache time
+
+V. 2.2
+moved
+
+V. 2.3
+icon change
+
+V. 2.4
+update py
